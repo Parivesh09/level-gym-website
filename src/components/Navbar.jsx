@@ -52,7 +52,7 @@ const Navbar = () => {
               spy={true}
               smooth={true}
               duration={500}
-              className="hover:text-[#ff3939] transition-all cursor-pointer"
+              className="hover:text-[#ff3939] hover:underline transition-all cursor-pointer"
             >
               {item.name}
             </Link>
