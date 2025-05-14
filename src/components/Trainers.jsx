@@ -1,8 +1,8 @@
 import React from "react";
-import img1 from "../assets/img/img1.jpg";
-import img2 from "../assets/img/img2.jpg";
-import img3 from "../assets/img/img3.jpg";
-import TrainerCard from "../layouts/TrainerCard";
+import img1 from "../../assets/img/img1.jpg";
+import img2 from "../../assets/img/img2.jpg";
+import img3 from "../../assets/img/img3.jpg";
+import TrainerCard from "../../layouts/TrainerCard";
 
 const Trainers = () => {
   return (

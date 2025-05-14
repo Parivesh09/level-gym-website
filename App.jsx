@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from "react";
-import Navbar from "./components/Navbar";
-import Home from "./components/Home";
-import About from "./components/About";
-import Plans from "./components/Plans";
-import Trainers from "./components/Trainers";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
-import BarLoader from "./components/BarLoader";
+import Navbar from "./src/components/Navbar";
+import Home from "./src/components/Home";
+import About from "./src/components/About";
+import Plans from "./src/components/Plans";
+import Trainers from "./src/components/Trainers";
+import Contact from "./src/components/Contact";
+import Footer from "./src/components/Footer";
+import BarLoader from "./src/components/BarLoader";
 import "./App.css";
 
 const App = () => {

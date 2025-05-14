@@ -34,7 +34,7 @@ const Navbar = () => {
       <div
         className={`md:fixed ${
           isSticky ? "bg-black bg-opacity-80" : ""
-        } flex flex-row justify-between md:px-32 px-5 p-5 gap-16 w-full`}
+        } flex flex-row justify-between md:px-32 px-5 p-5 gap-16 w-full z-50`}
       >
         <div className="flex items-center p-2">
           <Link to="/">
